@@ -58,12 +58,13 @@ O protótipo do Mapear foi desenvolvido no Figma para representar a proposta de 
 
 Conheça a proposta do Mapear em nosso vídeo de apresentação de aproximadamente um minuto.
 
-<!-- INSIRA AQUI O VÍDEO DO PITCH -->
-<p align="center">
-  <a href="LINK_DO_VIDEO_AQUI">
-    <img src="CAMINHO_DA_IMAGEM_DO_VIDEO_AQUI" alt="Assistir ao pitch de um minuto do Mapear" width="700">
-  </a>
-</p>
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/80bd6c12-c806-45b2-8457-77faaedcaf9c" width="300" controls></video>
+</div>
+
+
+
 
 <p align="center">
   ▶️ <a href="LINK_DO_VIDEO_AQUI">Assistir ao pitch do Mapear</a>
