@@ -82,5 +82,9 @@ Conheça a proposta do Mapear em nosso vídeo de apresentação de aproximadamen
 
 <p align="center">
   <strong>Mapear</strong><br>
-  Para que, em uma situação de emergência, as pessoas que precisam de assistência também sejam consideradas.
+O MAPEAR não é apenas tecnologia.
+É uma forma de tornar os resgates mais humanos, acessíveis e eficientes.
+Porque, em uma emergência, cada minuto importa.
+Nosso objetivo é garantir que ninguém seja esquecido quando mais precisar.
+MAPEAR: mapeando vidas, facilitando resgates..
 </p>
