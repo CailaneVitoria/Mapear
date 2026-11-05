@@ -79,7 +79,7 @@ Conheça a proposta do Mapear em nosso vídeo de apresentação de aproximadamen
 
 ## 🙏 Agradecimentos
 
-Agradecemos ao **SENAC Recife**, ao **Porto Digital** e ao **Embarque Digital** pela oportunidade de desenvolver e apresentar o Mapear, e aos professores e mentores **[ajustar: nomes]** pela orientação e pelo apoio durante todo o processo.
+Agradecemos ao **SENAC Recife** e à **Residência do Porto Digital** pela oportunidade de desenvolver e apresentar o Mapear, e aos professores e mentores pela orientação e pelo apoio durante todo o processo.
 
 ### 💛 Ao nosso squad
 
