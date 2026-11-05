@@ -77,7 +77,19 @@ Conheça a proposta do Mapear em nosso vídeo de apresentação de aproximadamen
   <video src="https://github.com/user-attachments/assets/80bd6c12-c806-45b2-8457-77faaedcaf9c" width="300" controls></video>
 </div>
 
-## 👥 Equipe responsável
+## 🙏 Agradecimentos
+
+Agradecemos ao **SENAC Recife**, ao **Porto Digital** e ao **Embarque Digital** pela oportunidade de desenvolver e apresentar o Mapear, e aos professores e mentores **[ajustar: nomes]** pela orientação e pelo apoio durante todo o processo.
+
+### 💛 Ao nosso squad
+
+Este projeto só foi possível por causa do **Squad 28**. Cada integrante contribuiu com ideias, pesquisa, design, apresentação e, principalmente, com dedicação e trabalho em equipe.
+
+Obrigado por transformarem uma ideia em uma proposta que pode ajudar a fazer com que ninguém seja esquecido quando mais precisa.
+
+**Keven, Cailane, Ítalo, Elinaldo, Carlos e Heitor:** esse projeto é nosso. 💛
+
+## 👥 Squad 28
 
 <p align="center">
   <img src="mapear_prejeto/apresentacao/squad_28.png" alt="Equipe responsável pelo projeto Mapear" width="700">
