@@ -8,7 +8,7 @@
 
 ## 🏛️ Apresentação do projeto
 
-O **Mapear foi apresentado na residência do Porto Digital** como parte de uma atividade acadêmica desenvolvida no SENAC Recife.
+O **Mapear foi apresentado na residência do Porto Digital pelo o Squad 28** como parte de uma atividade acadêmica desenvolvida no SENAC Recife.
 
 A apresentação teve como objetivo compartilhar a proposta de solução para apoiar a identificação e a organização da assistência a pessoas com mobilidade reduzida durante enchentes, deslizamentos e outras situações de calamidade.
 
@@ -82,17 +82,18 @@ Os materiais produzidos durante o desenvolvimento do projeto estão organizados 
 
 ## 👥 Equipe responsável
 
-<!-- INSIRA AQUI A FOTO DA EQUIPE, SE DESEJAR -->
 <p align="center">
-  <img src="CAMINHO_DA_FOTO_DA_EQUIPE_AQUI" alt="Equipe responsável pelo projeto Mapear" width="700">
+  <img src="mapear_prejeto/apresentacao/squad_28.png" alt="Equipe responsável pelo projeto Mapear" width="700">
 </p>
 
 | Integrante | Responsabilidade |
 |---|---|
-| Nome do integrante | Responsabilidade no projeto |
-| Nome do integrante | Responsabilidade no projeto |
-| Nome do integrante | Responsabilidade no projeto |
-| Nome do integrante | Responsabilidade no projeto |
+| Keven Whaine | Coordenação geral da equipe, Figma, protótipo Navegável, pesquisas, jornada do usuário, mapa de empatia, fluxo de telas e apoio geral |
+| Cailane Vítoria | Apresentadora, Organização do Slide, Criação da logo, Patelas de cores, pitch em vídeo e Apoio geral |
+| Ítalo Henrique | Ideia do projeto, Personas e apoio geral |
+| Elinaldo Oliveira | Análise de concorrentes, Referencias e pesquisas, lean canvas e Apoio Geral  |
+| Carlos Gustavo | Apresentador, Matriz CSD e Apoio Geral |
+| Heitor Pedroza | Referências e pesquisas, organização do Slide e apoio geral|
 
 ---
 
