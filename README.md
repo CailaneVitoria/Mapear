@@ -8,7 +8,7 @@
 
 ## 🏛️ Apresentação do projeto
 
-O **Mapear foi apresentado ao Porto Digital** como parte de uma atividade acadêmica desenvolvida no SENAC Recife, no contexto do Embarque Digital.
+O **Mapear foi apresentado na residência do Porto Digital** como parte de uma atividade acadêmica desenvolvida no SENAC Recife.
 
 A apresentação teve como objetivo compartilhar a proposta de solução para apoiar a identificação e a organização da assistência a pessoas com mobilidade reduzida durante enchentes, deslizamentos e outras situações de calamidade.
 
