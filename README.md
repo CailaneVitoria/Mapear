@@ -1,6 +1,6 @@
 # 🗺️ Mapear
 
-### Tecnologia e inclusão para apoiar pessoas em situações de emergência
+### Mapeando vidas. facilitando resgates.
 
 <p align="center">
   <img src="mapear_prejeto/apresentacao/squad_28_img.png" alt="Imagem de apresentação do projeto Mapear" width="800">
