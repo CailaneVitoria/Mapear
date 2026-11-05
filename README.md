@@ -2,9 +2,8 @@
 
 ### Tecnologia e inclusão para apoiar pessoas em situações de emergência
 
-<!-- FOTO PRINCIPAL DO PROJETO -->
 <p align="center">
-  <img src="CAMINHO_DA_IMAGEM_AQUI" alt="Imagem de apresentação do projeto Mapear" width="800">
+  <img src="mapear_prejeto/apresentacao/squad_28_img.png" alt="Imagem de apresentação do projeto Mapear" width="800">
 </p>
 
 ## 🏛️ Apresentação do projeto
