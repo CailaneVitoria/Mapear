@@ -63,23 +63,6 @@ Conheça a proposta do Mapear em nosso vídeo de apresentação de aproximadamen
   <video src="https://github.com/user-attachments/assets/80bd6c12-c806-45b2-8457-77faaedcaf9c" width="300" controls></video>
 </div>
 
-
-
-
-<p align="center">
-  ▶️ <a href="LINK_DO_VIDEO_AQUI">Assistir ao pitch do Mapear</a>
-</p>
-
-## 📚 Documentação
-
-Os materiais produzidos durante o desenvolvimento do projeto estão organizados nas pastas deste repositório.
-
-- 📁 `docs/` — documentação e estruturação do projeto;
-- 📁 `pesquisa/` — pesquisas, referências e análise de concorrentes;
-- 📁 `prototipo/` — materiais visuais e protótipo;
-- 📁 `apresentacao/` — slides e materiais de apresentação;
-- 📁 `relatorios/` — relatórios e registros do desenvolvimento.
-
 ## 👥 Equipe responsável
 
 <p align="center">
