@@ -6,6 +6,20 @@
   <img src="mapear_prejeto/apresentacao/squad_28_img.png" alt="Imagem de apresentação do projeto Mapear" width="800">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-protótipo-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/SENAC-Recife-blue" alt="SENAC Recife">
+  <img src="https://img.shields.io/badge/Porto_Digital-Residencia-green" alt="Porto Digital">
+  <img src="https://img.shields.io/badge/Squad-28-red" alt="Porto Digital">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/whaine-dev/Mapear" alt="Último commit">
+  <img src="https://img.shields.io/github/contributors/whaine-dev/Mapear" alt="Contribuidores">
+</p>
+
 ## 🏛️ Apresentação do projeto
 
 O **Mapear foi apresentado na residência do Porto Digital pelo o Squad 28** como parte de uma atividade acadêmica desenvolvida no SENAC Recife.
@@ -69,14 +83,13 @@ Conheça a proposta do Mapear em nosso vídeo de apresentação de aproximadamen
   <img src="mapear_prejeto/apresentacao/squad_28.png" alt="Equipe responsável pelo projeto Mapear" width="700">
 </p>
 
-| Integrante | Responsabilidade |
-|---|---|
-| Keven Whaine | Coordenação geral da equipe, Figma, protótipo Navegável, pesquisas, jornada do usuário, mapa de empatia, fluxo de telas e apoio geral |
-| Cailane Vítoria | Apresentadora, Organização do Slide, Criação da logo, Patelas de cores, pitch em vídeo e Apoio geral |
-| Ítalo Henrique | Ideia do projeto, Personas, ideias para o protótipo e apoio geral |
-| Elinaldo Oliveira | Análise de concorrentes, Referencias e pesquisas, lean canvas e Apoio Geral  |
-| Carlos Gustavo | Apresentador, Matriz CSD e Apoio Geral |
-| Heitor Pedroza | Referências e pesquisas, organização do Slide e apoio geral|
+| Integrante | Responsabilidade | GitHub | LinkedIn |
+|---|---|---|---|
+| Keven Whaine | Coordenação geral da equipe, Figma, protótipo navegável, pesquisas, jornada do usuário, mapa de empatia, fluxo de telas e apoio geral | <a href="https://github.com/whaine-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a> | <a href="https://www.linkedin.com/in/USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |
+| Cailane Vítoria | Apresentadora, organização do slide, criação da logo, paleta de cores, pitch em vídeo e apoio geral | <a href="https://github.com/USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a> | <a href="https://www.linkedin.com/in/USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |
+| Ítalo Henrique | Ideia do projeto, personas, ideias para o protótipo e apoio geral | <a href="https://github.com/Italodev11"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a> | <a href="https://www.linkedin.com/in/USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |
+| Elinaldo Oliveira | Análise de concorrentes, referências e pesquisas, lean canvas e apoio geral | <a href="https://github.com/elinaldo-nasc"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a> | <a href="https://www.linkedin.com/in/USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a> |
+| Carlos Gustavo | Apresentador, matriz CSD e apoio geral | <a href="https://github.com/USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a> | <a href="https://www.linkedin.com/in/USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
 
 ---
 
