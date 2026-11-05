@@ -90,7 +90,7 @@ Os materiais produzidos durante o desenvolvimento do projeto estão organizados 
 |---|---|
 | Keven Whaine | Coordenação geral da equipe, Figma, protótipo Navegável, pesquisas, jornada do usuário, mapa de empatia, fluxo de telas e apoio geral |
 | Cailane Vítoria | Apresentadora, Organização do Slide, Criação da logo, Patelas de cores, pitch em vídeo e Apoio geral |
-| Ítalo Henrique | Ideia do projeto, Personas e apoio geral |
+| Ítalo Henrique | Ideia do projeto, Personas, ideias para o protótipo e apoio geral |
 | Elinaldo Oliveira | Análise de concorrentes, Referencias e pesquisas, lean canvas e Apoio Geral  |
 | Carlos Gustavo | Apresentador, Matriz CSD e Apoio Geral |
 | Heitor Pedroza | Referências e pesquisas, organização do Slide e apoio geral|
