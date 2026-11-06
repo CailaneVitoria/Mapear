@@ -16,7 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/whaine-dev/Mapear" alt="Último commit">
   <img src="https://img.shields.io/github/contributors/whaine-dev/Mapear" alt="Contribuidores">
 </p>
 
