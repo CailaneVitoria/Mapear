@@ -76,6 +76,16 @@ Conheça a proposta do Mapear em nosso vídeo de apresentação de aproximadamen
   <video src="https://github.com/user-attachments/assets/80bd6c12-c806-45b2-8457-77faaedcaf9c" width="300" controls></video>
 </div>
 
+## 📊 Apresentação em slides
+
+Além do pitch em vídeo, preparamos uma apresentação em slides com o resumo da proposta do Mapear: o problema que queremos enfrentar, a solução, o público-alvo, o processo de criação e o protótipo.
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1_fx7jRi9YYQhi7QCSF-btqaEK_cPPSmA?usp=drive_link">
+    <img src="https://img.shields.io/badge/Ver_apresentação-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Ver apresentação em slides">
+  </a>
+</p>
+
 ## 🙏 Agradecimentos
 
 Agradecemos ao **SENAC Recife** e à **Residência do Porto Digital** pela oportunidade de desenvolver e apresentar o Mapear, e aos professores e mentores pela orientação e pelo apoio durante todo o processo.
